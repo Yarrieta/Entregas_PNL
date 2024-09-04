@@ -1,4 +1,4 @@
-<em> # Entregas_PNL  </em>
+# Entregas_PNL
 
 El presente repositorio contiene 5 desafíos de machine learning resueltos con algoritmos de procesamiemto del lenguaje natural en los idiomas español e inglés.
 
