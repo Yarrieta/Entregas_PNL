@@ -1,3 +1,5 @@
+![Image text](![image](https://github.com/user-attachments/assets/2a2aed32-ebb9-4206-93a5-fed2d2d4d307)
+)
 # Entregas_PNL
 
 El presente repositorio contiene 5 desafíos de machine learning resueltos con algoritmos de procesamiemto del lenguaje natural en los idiomas español e inglés.
