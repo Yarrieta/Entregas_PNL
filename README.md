@@ -1,6 +1,3 @@
-![Image text](![image](https://github.com/user-attachments/assets/2a2aed32-ebb9-4206-93a5-fed2d2d4d307)
-)
-
 ![image](https://github.com/user-attachments/assets/721962a0-6174-427d-95f5-d5e05abdc3be)
 
 # Entregas_PNL
